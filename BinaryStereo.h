@@ -9,7 +9,7 @@
 #include<bitset>
 using namespace std;
 
-#define  DESC_LEN 512		// descriptor length
+#define  DESC_LEN 4096		// descriptor length
 #define  PATCH_SZ 26		// patch size for descriptor
 
 class BinaryStereo : public IStereoAlg
